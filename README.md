@@ -2,6 +2,8 @@
 
 Đồ án môn Cơ sở dữ liệu – Nhóm 5
 
+Bộ môn: HTTT –  Khoa CNTT
+
 Dự án: DT08 – Ngân hàng lõi thu nhỏ 
 
 Thông tin đồ án
